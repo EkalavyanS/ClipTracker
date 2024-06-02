@@ -19,6 +19,6 @@
 ### Through Website
 
 - Go to installed directory
-- Open main.exe
+- Run start.sh in terminal through ``` ./start.sh ```
 
-## Enjoy ClipTracker.... 😀
+## Enjoy ClipTracking.... 😀
